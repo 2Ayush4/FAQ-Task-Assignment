@@ -1,0 +1,39 @@
+[
+    {
+        "number" : 1,
+        "question" : "How are you",
+        "answer" : [
+            "I am fine",
+            "What abot you",
+            "I am fine too"
+        ]
+    },
+    {
+        "number" : 2,
+        "question" : "How are you",
+        "answer" : [
+            "I am fine",
+            "What abot you",
+            "I am fine too"
+        ]
+    },
+    {
+        "number" : 3,
+        "question" : "How are you",
+        "answer" : [
+            "I am fine",
+            "What abot you",
+            "I am fine too"
+        ]
+    },
+    {
+        "number" : 4,
+        "question" : "How are you",
+        "answer" : [
+            "I am fine",
+            "What abot you",
+            "I am fine too"
+        ]
+    }
+
+]
